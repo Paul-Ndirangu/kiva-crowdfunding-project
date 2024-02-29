@@ -6,7 +6,7 @@ This repository contains the code and analysis conducted as part of the Kiva Loa
 ## Contents
 - **kiva_crowdfunding.ipynb**: Jupyter Notebook containing the Python code and analysis conducted on the loan data.
 - **data/**: Directory containing the dataset used for the analysis.
-- **output**: Directory containing the images that were generated during data analysis.
+- **output/**: Directory containing the images that were generated during data analysis.
 - **README.md**: This file providing an overview of the project repository.
 
 ## Analysis
@@ -23,7 +23,7 @@ The analysis conducted includes:
    ```
 2. Navigate to the project directory:
    ```
-   cd kiva-loan-analysis
+   cd kiva_crowdfunding_project
    ```
 3. Open and run the `kiva_crowdfunding.ipynb` notebook using Jupyter Notebook or JupyterLab to view the analysis and results.
 
