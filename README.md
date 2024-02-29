@@ -13,8 +13,11 @@ This repository contains the code and analysis conducted as part of the Kiva Loa
 The analysis conducted includes:
 - Determining borrower loan repayment status.
 - Analyzing loan distribution by country and identifying countries receiving the highest and lowest loan amounts.
+![loan amount per country](output/amount-country.png)
 - Investigating lender participation across countries and sectors.
+![lender participation across sectors](output/sector_lender-count.png)
 - Examining loan distribution across sectors and identifying sectors receiving the highest and lowest loan amounts.
+![loan distribution across sectors](output/sector_amount.png)
 
 ## Usage
 1. Clone the repository to your local machine using the following command:
