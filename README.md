@@ -36,7 +36,7 @@ The analysis conducted includes:
 - Pandas, NumPy, Matplotlib, Scipy & Seaborn (Python libraries)
 
 ## Credits
-This project was completed as part of a data analysis task by [Paul Ndirangu](paulmwaura254@gmail.com).
+This project was completed as part of a data analysis task by [Paul Ndirangu](https://github.com/Paul-Ndirangu/).
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use the code and analysis for your own projects.
